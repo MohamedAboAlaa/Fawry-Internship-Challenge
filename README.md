@@ -83,7 +83,6 @@ This e-commerce system supports multiple product types, customer management, sho
 1. **📁 Clone the repository**
    ```bash
    git clone https://github.com/MohamedAboAlaa/Fawry-Internship-Challenge.git
-   cd ecommerce-system-task
    ```
 
 2. **▶️ Run the main demo**
